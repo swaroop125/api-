@@ -1,0 +1,5 @@
+flask
+flask-cors
+opencv-python-headless==4.7.0.72
+tensorflow-cpu==2.13.0
+gunicorn
